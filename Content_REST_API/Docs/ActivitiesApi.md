@@ -4,7 +4,7 @@ All URIs are relative to *https://localhost/alfresco/api/-default-/public/alfres
 
 | Method                                              | HTTP request                          | Description     |
 |-----------------------------------------------------|---------------------------------------|-----------------|
-| [listActivitiesForPerson](#listActivitiesForPerson) | **GET** /people/{personId}/activities | List activities |
+| [listActivitiesForPerson](#listActivitiesForPerson) | **GET** /people/{personId}/activities1 | List activities |
 
 ## listActivitiesForPerson
 
