@@ -41,7 +41,6 @@ actionsApi.actionDetails(`<actionDefinitionId>`).then((data) => {
 
 Execute an action
 
-> this endpoint is available in **Alfresco 5.2** and newer versions.
 
 Executes an action
 
